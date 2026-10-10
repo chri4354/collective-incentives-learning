@@ -31,3 +31,7 @@ Everything runs in about 15 seconds. Seeds are fixed, so the outputs in this rep
 | `figures/` | Figures 1–2 (PDF and PNG) |
 
 Tested with Python 3.10, numpy 1.26, pandas 2.2, matplotlib 3.10.
+
+## License
+
+MIT; see `LICENSE`.
