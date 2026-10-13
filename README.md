@@ -1,6 +1,6 @@
 # Collective incentives that promote collective intelligence
 
-Simulation code for the paper *Collective incentives that promote collective intelligence* (Pescetelli, in preparation).
+Simulation code for the paper *Collective incentives that promote collective intelligence* (Pescetelli, submitted).
 
 In each round, a group of *n* agents estimates a quantity. Everyone sees the same shared signal; each agent also sees a private one. Agent *i* reports `(1 − w_i)·shared + w_i·private` and learns its weight `w_i` with the delta rule, from either its own error (individual reward) or the error of the crowd's mean (collective reward). Under individual reward agents learn the individually optimal weight; under collective reward they learn the weight that is optimal for the group, which grows with *n*.
 
